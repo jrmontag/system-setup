@@ -1,0 +1,20 @@
+# XCode + CL utilities
+https://developer.apple.com/downloads/
+
+#Homebrew
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+
+# Python + packages
+python-setup repo
+
+# R + RStudio
+http://cran.stat.ucla.edu/bin/macosx/
+
+#Chrome
+https://www.google.com/intl/en/chrome/browser/
+
+#Evernote
+https://evernote.com/download/
+
+
+
