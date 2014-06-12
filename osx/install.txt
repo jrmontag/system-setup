@@ -1,3 +1,7 @@
+
+
+## things to install
+
 # XCode + CL utilities
 https://developer.apple.com/downloads/
 
@@ -21,3 +25,15 @@ http://www.graphviz.org/Download_macos.php
 
 # pandoc
 http://johnmacfarlane.net/pandoc/index.html
+
+
+
+# homebrew installs
+brew install jq     # http://stedolan.github.io/jq/
+#
+
+
+
+
+
+
