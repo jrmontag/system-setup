@@ -5,6 +5,10 @@
 # XCode + CL utilities
 https://developer.apple.com/downloads/
 
+# XQuartz 
+#   - not clear if needed
+https://xquartz.macosforge.org/landing/
+
 #Homebrew
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 
@@ -30,7 +34,7 @@ http://johnmacfarlane.net/pandoc/index.html
 
 # homebrew installs
 brew install jq     # http://stedolan.github.io/jq/
-#
+
 
 
 
