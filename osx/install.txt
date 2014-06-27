@@ -30,7 +30,11 @@ http://www.graphviz.org/Download_macos.php
 # pandoc
 http://johnmacfarlane.net/pandoc/index.html
 
-
+# tex
+https://tug.org/mactex/
+# + spell-check dictionary
+http://extensions.services.openoffice.org/en/project/english-dictionaries-apache-openoffice
+https://code.google.com/p/texworks/wiki/SpellingDictionaries
 
 # homebrew installs
 brew install jq     # http://stedolan.github.io/jq/

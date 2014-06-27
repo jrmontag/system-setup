@@ -1,0 +1,12 @@
+$ ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"
+$ brew doctor
+$ brew install python
+$ export PATH=/usr/local/bin:/usr/local/share/python:$PATH
+$ easy_install pip
+$ brew install gfortran
+$ pip install numpy
+$ pip install scipy
+$ brew install pkg-config
+$ brew install freetype
+$ brew install libpng
+$ pip install matplotlib
