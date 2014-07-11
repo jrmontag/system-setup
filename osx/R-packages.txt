@@ -1,0 +1,8 @@
+# for now, just a list of packages. future: an install script
+Rcpp
+data.tabel
+plyr
+reshape2
+ggplot2
+lubridate
+
